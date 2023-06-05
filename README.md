@@ -15,6 +15,9 @@ Create excel Report,express, typescpript,googlesheets,excel
 наименованию (“API”)
 - Исключить из отчета объекты с HTTPS со значением false
 -  На выходе должны получить xls-файл с отчетом
+
+**Готовый результат можно посмотреть в корневой папке Report.xls**
+
 ### 2. Создать с помощью nodeJS аналогичный отчет в Google Sheets.
 Готовый результат можно посмотреть по ссылке
 **https://docs.google.com/spreadsheets/d/1SFPx-x-yaBe9s8cTVFwmo_do5qbo1TgoMNwAYfqf24w/edit#gid=133961432**
